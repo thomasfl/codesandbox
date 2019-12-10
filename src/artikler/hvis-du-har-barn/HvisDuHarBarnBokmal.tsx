@@ -129,7 +129,7 @@ const HvisDuHarBarnBokmal = () => (
                 . Det kan være utlån av private hytter, gratis billetter til
                 arrangementer med mer. Du kan også legge inn dine aktivitets- og
                 ferieønsker. For eksempel låne eller leie en hytte eller
-                campingvogn.
+                en campingvogn.
             </Normaltekst>
         </Ekspanderbartpanel>
     </Artikkel>
